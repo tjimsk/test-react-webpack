@@ -2,3 +2,4 @@ node_modules
 .DS_Store
 dist/development
 dist/production
+yarn-error.log
